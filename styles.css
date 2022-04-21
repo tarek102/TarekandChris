@@ -1,5 +1,12 @@
 body {
     background-color: rgb(233, 243, 243);
+    font-family: sans-serif;
+
+}
+
+#title {
+    font-size: 25px;
+    font-weight: bold;
 }
 
 #main {
@@ -16,10 +23,23 @@ body {
 
 }
 
+#img-caption {
+    text-align: center;
+
+}
+
 #image {
     width: 100%;
 }
 
 li{
     margin:20px 0;
+}
+
+.footer {
+    text-align: center;
+}
+
+#tribute-info h2 {
+    margin: 10px 0;
 }
